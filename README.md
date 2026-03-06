@@ -24,7 +24,11 @@ Mirage turns raw PDFs into an interactive intelligence layer:
 
 ---
 ## Demostration
+
+
 https://github.com/user-attachments/assets/ea7793a7-19f0-496e-984a-31763593bc1c
+
+
 ---
 
 ## Monorepo Map
